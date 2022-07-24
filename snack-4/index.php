@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Prendere un paragrafo abbastanza lungo, contenente diverse frasi. Prendere il paragrafo e suddividerlo in tanti paragrafi. Ogni punto un nuovo paragrafo. -->
     <?php 
         $paragraph = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus facere architecto quibusdam repellat sunt eum perspiciatis facilis eius ullam iste deleniti eligendi hic, officia blanditiis quasi? Enim mollitia temporibus harum? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, minus temporibus commodi dolor beatae maiores iusto, ratione molestiae vero eius porro veritatis tempore. Repudiandae rerum voluptas natus exercitationem nesciunt ratione. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat error, dignissimos iusto fugit laborum harum aperiam exercitationem soluta, quis unde libero minus quas. Doloremque esse at laborum. Corrupti, provident fugiat?';
 
