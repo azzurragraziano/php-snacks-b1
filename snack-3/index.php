@@ -12,7 +12,7 @@
 
         $numbers = [];
 
-        while(count($numbers) < 15) {
+        for($i = 0; count($numbers) < 15; $i++) {
             $number = rand(1, 100);
 
             if(!in_array($number, $numbers)) {
